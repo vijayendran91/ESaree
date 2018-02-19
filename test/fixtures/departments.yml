@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dept_name: MyString
+  dept_chief: MyString
+  no_emps: 1
+
+two:
+  dept_name: MyString
+  dept_chief: MyString
+  no_emps: 1
